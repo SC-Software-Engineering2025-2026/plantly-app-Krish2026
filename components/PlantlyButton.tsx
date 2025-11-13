@@ -41,6 +41,7 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     borderRadius: 6,
     backgroundColor: theme.colorGreen,
+    alignItems: "center",
   },
   buttonPressed: {
     backgroundColor: theme.colorLeafyGreen,

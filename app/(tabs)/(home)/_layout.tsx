@@ -5,7 +5,7 @@ import AntDesign from "@expo/vector-icons/AntDesign";
 import { Pressable } from "react-native";
 
 export const unstable_settings = {
-  initalRouteName: "index",
+  initialRouteName: "index",
 };
 
 export default function Layout() {

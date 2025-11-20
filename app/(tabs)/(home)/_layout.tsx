@@ -1,7 +1,12 @@
 import { theme } from "@/theme";
-import AntDesign from "@expo/vector-icons/AntDesign";
 import { Link, Stack } from "expo-router";
+import React from "react";
+import AntDesign from "@expo/vector-icons/AntDesign";
 import { Pressable } from "react-native";
+
+export const unstable_settings = {
+  initalRouteName: "index",
+};
 
 export default function Layout() {
   return (
